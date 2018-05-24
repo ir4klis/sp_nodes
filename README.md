@@ -2,7 +2,7 @@
 
 
 Package containing two publisherers (publisherA.py) and (publisherB.py) and a subscriber (subscriber.py) nodes.   
-Each publisher publishes to its own node (sp_node_a and sp_node_b) and subscriber subscribes to both of them.  
+Each publisher has its own topic (sp_node_a and sp_node_b) and subscriber subscribes to both of them.  
 Quick way to test communication between multiple machines.  
 
 Runs with :  
