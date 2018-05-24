@@ -22,3 +22,4 @@ rostopic list
 `/sp_node_a`  
 `/sp_node_b`  
 
+### If you stumbled upon this and want to know more, [wiki.ros](http://wiki.ros.org)
