@@ -1,7 +1,7 @@
 ## ROS sp_nodes package
 
 
-Package containing two publisherers (publisherA.py) and (publisherB.py) and a subscriber (subscriber.py) nodes.   
+Package containing two publishers (publisherA.py) and (publisherB.py) and a subscriber (subscriber.py) nodes.   
 Each publisher has its own topic (sp_node_a and sp_node_b) and subscriber subscribes to both of them.  
 Quick way to test communication between multiple machines.  
 
