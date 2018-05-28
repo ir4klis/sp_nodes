@@ -6,7 +6,7 @@ Each publisher has its own topic (sp_node_a and sp_node_b) and subscriber subscr
 Quick way to test communication between multiple machines.  
 
 Runs with :  
-`$ rosrun <pkg name> <script name>`
+`$ rosrun sp_nodes <script name>`
 
 Nodes and topics can be seen with   
 
@@ -14,11 +14,8 @@ rosnode list
 `/ab_subscriber`  
 `/publisherA`  
 `/publisherB`  
-/rosout
 
-rostopic list  
-/rosout  
-/rosout_agg  
+rostopic list   
 `/sp_node_a`  
 `/sp_node_b`  
 
