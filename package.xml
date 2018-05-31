@@ -2,7 +2,7 @@
 <package format="2">
   <name>sp_nodes</name>
   <version>0.0.1</version>
-  <description>Base publisher and subscriber nodes written in pythonv(rospy). </description>
+  <description> Base publisher and subscriber nodes written in pythonv(rospy).</description>
 
  
   <maintainer email="ir4klis@todo.todo"> Github: ir4klis </maintainer>
